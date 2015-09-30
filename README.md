@@ -45,4 +45,4 @@ You can check that the resulting packaging is correct using:
 ```
 MP4Box -info file.mp4
 ```
-or using [MP4Box Online File Analyzer](download.tsi.telecom-paristech.fr/gpac/mp4box.js/filereader.html)
+or using [MP4Box Online File Analyzer](http://download.tsi.telecom-paristech.fr/gpac/mp4box.js/filereader.html)
